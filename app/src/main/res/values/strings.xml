@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Les Sports</string>     //Nom de l'application
+
+    //Tableau de noms de sports
+    <string-array name="t_name">
+        <item>Football</item>
+        <item>Tennis</item>
+        <item>Basketball</item>
+        <item>Handball</item>
+        <item>Boxe</item>
+        <item>Ski</item>
+    </string-array>
+
+    //Tableau de descriptions
+    <string-array name="t_desc">
+        <item>Le football est un sport collectif qui se joue principalement au pied avec un ballon sphérique. Il oppose deux équipes de onze joueurs dans un stade, que ce soit sur un terrain gazonné ou sur un plancher. L\'objectif de chaque camp est de mettre le ballon dans le but adverse, sans utiliser les bras, et de le faire plus souvent que l\'autre équipe.</item>
+        <item>Le tennis est un sport de raquette qui oppose soit deux joueurs (on parle alors de jeu en simple) soit quatre joueurs qui forment deux équipes de deux (on parle alors de jeu en double). Les joueurs utilisent une raquette cordée verticalement et horizontalement (en tamis) à une tension variant avec la puissance ou l\'effet que l\'on veut obtenir.</item>
+        <item>Le basketball, fréquemment désigné en français par son abréviation basket, est un sport collectif opposant deux équipes de cinq joueurs sur un terrain rectangulaire. L\'objectif de chaque équipe est de faire passer un ballon au sein d\'un arceau de 46 cm de diamètre, fixé à un panneau et placé à 3,05 m du sol : le panier. Chaque panier inscrit rapporte deux points à son équipe, à l\'exception des tirs effectués au-delà de la ligne des trois points qui rapportent trois points et des lancers francs accordés à la suite d\'une faute qui rapportent un point. L\'équipe avec le nombre de points le plus important remporte la partie.</item>
+        <item>Le handball est un sport collectif joué à la main où deux équipes de sept joueurs s\'affrontent avec un ballon en respectant plusieurs règles sur un terrain rectangulaire de dimensions 40 m par 20 m, séparé en deux camps. Le nom est un emprunt de l\'allemand : die Hand (« la main ») et der Ball (« la balle », mot prononcé comme en français).</item>
+        <item>La boxe anglaise, aussi appelée le noble art, est un sport de combat dans lequel deux adversaires, de même catégorie de poids et de même sexe, se rencontrent sur un ring, munis de gants rembourrés afin de limiter le risque de coupure, et s\'échangent des coups de poings, portés au visage et au buste. Le combat est divisé en intervalles de temps, les rounds, séparés par une minute de repos annoncée par une cloche où le pugiliste pourra être conseillé et soigné si besoin.</item>
+        <item>Le ski est un moyen de locomotion, individuel de glisse pratiqué grâce à des patins longs (la taille de l\'utilisateur) et étroits (la largeur du pied de l\'utilisateur) également appelés skis, fixés aux pieds. Principalement connue par le ski sur neige, cette pratique du ski sur neige naturelle est évidemment dépendante de la présence d\'un manteau neigeux, ce qui limite sa pratique aux régions montagneuses ou nordiques, ainsi qu\'à la saison hivernale.</item>
+    </string-array>
+</resources>
